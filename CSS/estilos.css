@@ -1,8 +1,15 @@
-.Fondo {
-    background-color: rgb(209, 196, 185);
+#Fondo {
+    background-color: #d1c4b9;
     background-size: auto;
 }
 
+.Botón {
+float: left;    
+margin-top: 4000px;
+margin-bottom: 100px;
+margin-left: 350px;
+padding: 10px;
+}
 
 .Imagen_de_tarjeta {
     width: 250px;
@@ -158,7 +165,7 @@
     position: fixed;
     width: 100%;
     top: 0;
-    left: 25px;
+    left: 50px;
     overflow: hidden;
     text-decoration: none;
 }
