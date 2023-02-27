@@ -1,0 +1,124 @@
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300   1) <!DOCTYPE html>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300   2) <html lang="es">
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300   3) <head>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300   4)     <meta charset="UTF-8">
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300   5)     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300   6)     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300   7)     <title>Proyecto Final - Micaela Roig Courtis</title>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300   8)     <link rel="stylesheet" href="CSS/estilos.css"> 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300   9) </head>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  10) 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  11) 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  12) <body class="Fondo">
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  13) 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  14)     <script src="JS/funciones.js"></script>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  15)     
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  16)     <img class="Foto Fondo_del_elemento" 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  17)     src="https://st2.depositphotos.com/1159452/6538/i/600/depositphotos_65383405-stock-photo-young-woman-smiling.jpg" 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  18)     alt="Foto de Berenice Carlson">
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  19) 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  20)     <br>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  21) 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  22) 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  23)     <div class="NombreYApellido col-5">
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  24)     <h1> Bernarda Terranova</h1>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  25)     </div>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  26)     <br>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  27) 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  28)       
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  29)     <section class="Presentación col 2 col-10 Fondo_del_elemento">
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  30)         <p> 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  31)         Acerca de mi.- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquet elementum diam eu ultricies. 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  32)         In rhoncus hendrerit rhoncus. Suspendisse erat metus, scelerisque ac lectus ut, malesuada varius ante. Nam eu nulla id lectus sollicitudin aliquam eu id turpis. 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  33)         Integer imperdiet tortor nec eros malesuada, ut imperdiet ipsum tincidunt. Vivamus vulputate nulla in lacus consequat, vehicula pulvinar erat cursus. 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  34)         Praesent ullamcorper egestas magna, vel pulvinar est commodo nec. Nunc condimentum ullamcorper tortor in malesuada. Fusce eu finibus ipsum, nec accumsan urna.
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  35)         Duis sollicitudin dignissim eleifend. Fusce ullamcorper felis id justo egestas, sit amet pretium mi lacinia. Nullam vitae metus accumsan, faucibus quam eu, gravida nulla. 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  36)         Nulla id tempus eros. Pellentesque mauris lectus, venenatis non tempus non, commodo finibus nisl. Pellentesque in massa tempus, dapibus diam et, facilisis neque. 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  37)         Ut dignissim volutpat ligula ut fringilla. Phasellus in sem rhoncus sem rutrum cursus eu sed enim. Curabitur gravida, lorem id bibendum accumsan, ante nunc mattis eros, id scelerisque sapien est ut felis. 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  38)         Vivamus in gravida nisl. Donec eleifend eu neque ut porta. Donec sodales ex tortor, non commodo est blandit ac. Aliquam turpis ipsum, viverra eget vehicula nec, efficitur eu libero. 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  39)         </p>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  40)     </section>    
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  41)        
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  42) 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  43)         <section class="Información_Básica col-5 Fondo_del_elemento">
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  44)             <img class="Imagen_de_tarjeta" src="https://st4.depositphotos.com/12982378/25188/i/450/depositphotos_251880391-stock-photo-cropped-view-girl-pink-shirt.jpg" alt="Imagen datos personales">
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  45)             <h2 id="Datos_personales" class="h2 Fondo_del_elemento"> Datos personales <hr> </h2>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  46)             <ul id="Lista_datos_personales" class="Fondo_del_elemento">
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  47)                 <li class="Fondo_del_elemento">Fecha de nacimiento: 03/09/1997</li>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  48)                 <li class="Fondo_del_elemento">Domicilio: Maipu 123, Buenos Aires, Argentina.</li>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  49)                 <li class="Fondo_del_elemento">Teléfono: +54 9 11 1234-5678</li>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  50)                 <li class="Fondo_del_elemento">Email: bterranova97@gmail.com</li>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  51)             </ul>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  52)         </section>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  53)     
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  54) 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  55)     <section class="Formación col-5 Fondo_del_elemento">
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  56)         <img class="Imagen_de_tarjeta" src="https://st3.depositphotos.com/10638998/15333/i/600/depositphotos_153333874-stock-photo-woman-writing-in-notebook.jpg" alt="Imagen formación">
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  57)         <h2 id="Educación" class="h2 Fondo_del_elemento">Educación <hr> </h2>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  58)         <ul id="Lista_educación" class="Fondo_del_elemento">
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  59)             <li class="Fondo_del_elemento"> 2022 - Actualidad: Programación, Ticmas Academy.</li>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  60)             <li class="Fondo_del_elemento"> 2015 - 2021: Licenciatura en Diseño Gráfico, UBA.</li>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  61)             <li class="Fondo_del_elemento"> 2009 - 2014: Escuela Normal Superior N°12. </li>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  62)         </ul>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  63)         <br>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  64)         <h2 id="Idiomas" class="h2 Fondo_del_elemento">Idiomas <hr> </h2>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  65)         <ul id="Lista_idiomas" class="Fondo_del_elemento">
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  66)             <li class="Fondo_del_elemento">Español (nativo)</li>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  67)             <li class="Fondo_del_elemento">Inglés (bilingüe)</li>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  68)             <li class="Fondo_del_elemento">Portugués (intermedio)</li>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  69)         </ul>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  70)     </section>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  71)     <br>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  72) 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  73) 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  74)     <section class="Experiencia_laboral col-5 Fondo_del_elemento">
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  75)         <img class="Imagen_de_tarjeta" src="https://st2.depositphotos.com/10614052/44234/i/600/depositphotos_442343032-stock-photo-female-fashion-designer-working-studio.jpg" alt="Imagen experiencia">
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  76)         <h2 id="Experiencia" class="h2 Fondo_del_elemento">Experiencia <hr> </h2>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  77)         <ul id="Lista_experiencia_laboral" class="Fondo_del_elemento">    
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  78)             <li class="Fondo_del_elemento">2020 - Actualidad: Diseñadora gráfica independiente.</li>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  79)             <li class="Fondo_del_elemento">2018 - 2020: Pasante de una agencia de publicidad. </li>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  80)             <li class="Fondo_del_elemento">2016 - 2018: Secretaria de un consultorio médico.</li>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  81)         </ul>   
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  82)     </section> 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  83)     <br>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  84) 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  85) 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  86)     <section class="Tecnología col-5 Fondo_del_elemento">
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  87)         <img class="Imagen_de_tarjeta" src="https://st4.depositphotos.com/1907633/21216/i/600/depositphotos_212162066-stock-photo-coding-software-developer-work-new.jpg" alt="Imagen herramientas tecnológicas">    
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  88)         <h2 id="Herramientas_IT" class="h2 Fondo_del_elemento">Tecnología <hr> </h2>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  89)         <ul id="Lista_herramientas_IT" class="Fondo_del_elemento">
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  90)             <li class="Fondo_del_elemento">Lenguajes: HTML, CSS, JavaScript, SQL</li>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  91)             <li class="Fondo_del_elemento">Diseño: Figma, Illustrator, Photoshop</li>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  92)             <li class="Fondo_del_elemento">Otros: Excel, PowerPoint</li>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  93)             
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  94)         </ul>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  95)     </section>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  96)     <br>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  97) 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  98)     <section class="Habilidades_blandas col-5 Fondo_del_elemento"> 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300  99)         <img class="Imagen_de_tarjeta" src="https://st4.depositphotos.com/3258807/21123/i/600/depositphotos_211233504-stock-photo-male-and-female-hands-putting.jpg" alt="Imagen soft skills">   
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300 100)         <h2 id="Soft_skills" class="h2 Fondo_del_elemento">Habilidades blandas <hr> </h2>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300 101)         <ul id="Lista_habilidades" class="Fondo_del_elemento">
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300 102)             <li class="Fondo_del_elemento">Trabajo en equipo</li>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300 103)             <li class="Fondo_del_elemento">Manejo del tiempo</li>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300 104)             <li class="Fondo_del_elemento">Escucha activa</li>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300 105)             <li class="Fondo_del_elemento">Orientación al cliente</li>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300 106)             <li class="Fondo_del_elemento">Capacidad resolutiva</li>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300 107)         </ul>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300 108)     </section>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300 109) 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300 110) 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300 111)     <nav><ul class= "Barra_de_navegación" > <!--donde esta el asterico tiene que ir un link, 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300 112)         este ejemplo lo saque de w3schools-->
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300 113)         <li class="Navegación col-2"><a href="#Presentación">Presentación</a></li>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300 114)         <li class="Navegación col-4"><a href="#Información_Básica">Datos personales</a></li>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300 115)         <li class="Navegación col-6"><a href="#Formación">Educación</a></li>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300 116)         <li class="Navegación col-8"><a href="#Experiencia_laboral">Experiencia laboral</a></li>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300 117)         <li class="Navegación col-10"><a href="#Tecnología">Herramientas IT</a></li>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300 118)         <li class="Navegación col-12"><a href="#Habilidades_blandas">Habilidades blandas</a></li>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300 119)       </ul>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300 120)     </nav>  
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300 121) 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300 122) 
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300 123) </body>
+^efe8f54 (Micaela Roig Courtis 2023-02-27 03:22:39 -0300 124) </html>
