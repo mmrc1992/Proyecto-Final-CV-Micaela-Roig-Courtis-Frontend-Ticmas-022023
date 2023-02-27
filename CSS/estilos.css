@@ -3,13 +3,6 @@
     background-size: auto;
 }
 
-.Botón {
-float: left;    
-margin-top: 4000px;
-margin-bottom: 100px;
-margin-left: 350px;
-padding: 10px;
-}
 
 .Imagen_de_tarjeta {
     width: 250px;
@@ -188,3 +181,20 @@ a:link, a:visited {
 
 
 .h2 {font-style: italic;}
+
+
+.BotónCambiar {
+    position: absolute;
+    float: left;    
+    top: 4060px;
+    margin-left: 600px;
+    padding: 10px;
+    }
+    
+    .BotónRetornar {
+        position: absolute;
+        float: left;    
+        top: 4100px;
+        margin-left: 570px;
+        padding: 10px;
+        }
