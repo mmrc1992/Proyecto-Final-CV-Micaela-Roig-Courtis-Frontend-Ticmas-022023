@@ -65,7 +65,7 @@
 }
 
 
-.Información_Básica {
+.Datos_de_contacto {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     color: rgb(87, 87, 87);
     position: absolute;
@@ -83,7 +83,7 @@
 }
 
 
-.Formación {
+.Estudios {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     color: rgb(87, 87, 87);
     position: absolute;
@@ -101,7 +101,7 @@
 }
  
 
-.Experiencia_laboral {
+.Trabajos {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     color: rgb(87, 87, 87);
     position: absolute;
@@ -118,7 +118,7 @@
 }
 
 
-.Tecnología {
+.Herramientas {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     color: rgb(87, 87, 87);
     position: absolute;
@@ -135,7 +135,7 @@
 }
 
 
-.Habilidades_blandas {
+.Soft_skills {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     color: rgb(87, 87, 87);
     position: absolute;
@@ -193,7 +193,11 @@
     width: auto;
     background-color: rgba(3, 245, 132, 0.452);
     font-family: Helvetica; 
+    color: white;
 }
+
+
+
 
 
 /**@media screen and (max-width: 5000px) {
