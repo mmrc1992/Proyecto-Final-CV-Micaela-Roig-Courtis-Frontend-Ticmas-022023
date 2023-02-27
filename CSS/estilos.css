@@ -1,0 +1,211 @@
+.Fondo {
+    background-color: rgb(209, 196, 185);
+    background-size: auto;
+
+}/**{background-image: url("https://img.freepik.com/foto-gratis/fondo-pantalla-varios-circulos-transparentes_58702-7128.jpg?w=740&t=st=1676942990~exp=1676943590~hmac=0281be858684bdae970dc8de4cd4d0e05ac6697ff74a3cca8342d8a7552c5eeb");
+
+    }*/
+
+.Imagen_de_tarjeta {
+    width: 250px;
+    height: 250px;
+    padding: 0;
+    margin-top: 10px;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 120px;
+    border-radius: 100%;
+    position: static;
+    
+    
+}
+.Foto {
+    border-color: rgb(138, 233, 181);
+    border-width: 2px;
+    border-style: solid;
+    image-rendering: optimizeQuality;
+    border-radius: 100%;
+    box-shadow: 0 8px 8px 0 rgba(0,0,0,0.2);
+    left: 510px;
+    position: absolute;
+    top: 100px;
+    height: 250px;
+    width: 250px;
+    overflow: hidden;
+}
+
+.NombreYApellido {
+    font-style: italic;
+    font-size: 30px;
+    color: rgb(66, 66, 66);
+    text-align: center;
+    left: 350px;
+    position: absolute;
+    top: 330px;
+    border-top: 100px; 
+    width: auto; 
+}
+
+
+.Presentación {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    position: absolute;
+    overflow: hidden;
+    width: fit-content;
+    float: left;
+    left: 130px;
+    top: 480px;
+    font-size: 20px;
+    color: rgb(87, 87, 87);
+    text-align: justify;
+    border: double rgb(172, 207, 171);
+    padding: 10px
+    
+    
+}
+
+
+.Información_Básica {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    color: rgb(87, 87, 87);
+    position: absolute;
+    left: 400px;
+    top: 900px;
+    border: double rgb(172, 207, 171);
+    float: left;
+    padding: 10px 30px;
+    width: fit-content;
+    overflow: hidden;
+
+    /**margin-right: 900px ;
+    margin-left:1px;
+    padding: 10px 30px;*/
+}
+
+
+.Formación {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    color: rgb(87, 87, 87);
+    position: absolute;
+    left: 400px;
+    top: 1500px;
+    border: double rgb(172, 207, 171);
+    float: left;
+    padding: 10px 30px;
+    width: fit-content;
+    overflow: hidden;
+
+    /**margin-right: 900px ;
+    margin-left:1px;
+    padding: 10px 30px;*/ 
+}
+ 
+
+.Experiencia_laboral {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    color: rgb(87, 87, 87);
+    position: absolute;
+    left: 400px;
+    top: 2250px;
+    border: double rgb(172, 207, 171);
+    float: left;
+    padding: 10px 30px;
+    width: fit-content;
+    overflow: hidden;
+    /**margin-right: 900px ;
+    margin-left:1px;
+    padding: 10px 30px;*/ 
+}
+
+
+.Tecnología {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    color: rgb(87, 87, 87);
+    position: absolute;
+    left: 400px;
+    top: 2850px;
+    border: double rgb(172, 207, 171);
+    float: left;
+    padding: 10px 30px;
+    width: fit-content;
+    overflow: hidden;
+    /**margin-right: 900px ;
+    margin-left:1px;
+    padding: 10px 30px;*/ 
+}
+
+
+.Habilidades_blandas {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    color: rgb(87, 87, 87);
+    position: absolute;
+    left: 400px;
+    top: 3440px;
+    border: double rgb(172, 207, 171);
+    float: left;
+    padding: 10px 30px;
+    width: fit-content;
+    overflow: hidden;
+    /**margin-right: 900px ;
+    margin-left:1px;
+    padding: 10px 30px; */
+}
+
+
+.h2 {font-style: italic;}
+
+
+.Fondo_del_elemento {background: rgb(250, 248, 243);}
+
+
+* {box-sizing: border-box;}
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}  
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+
+.Barra_de_navegación {
+    list-style-type: none;
+    margin: 10;
+    padding: 0;
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 30px;
+    overflow: hidden;
+}
+
+.Navegación {
+    padding: 15px 50px;
+    display: block;
+    text-align: center;
+    float: left;
+    width: auto;
+    background-color: rgba(3, 245, 132, 0.452);
+    font-family: Helvetica; 
+}
+
+
+/**@media screen and (max-width: 5000px) {
+  
+    .Foto,
+    .NombreYApellido,
+    .Presentación,
+    .Información_Básica,
+    .Formación,
+    .Experiencia_laboral,
+    .Tecnología,
+    .Habilidades_blandas {
+        width: 70%;
+    }
+}
