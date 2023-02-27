@@ -1,10 +1,8 @@
 .Fondo {
     background-color: rgb(209, 196, 185);
     background-size: auto;
+}
 
-}/**{background-image: url("https://img.freepik.com/foto-gratis/fondo-pantalla-varios-circulos-transparentes_58702-7128.jpg?w=740&t=st=1676942990~exp=1676943590~hmac=0281be858684bdae970dc8de4cd4d0e05ac6697ff74a3cca8342d8a7552c5eeb");
-
-    }*/
 
 .Imagen_de_tarjeta {
     width: 250px;
@@ -15,10 +13,10 @@
     margin-bottom: 0;
     margin-left: 120px;
     border-radius: 100%;
-    position: static;
-    
-    
+    position: static;   
 }
+
+
 .Foto {
     border-color: rgb(138, 233, 181);
     border-width: 2px;
@@ -33,6 +31,7 @@
     width: 250px;
     overflow: hidden;
 }
+
 
 .NombreYApellido {
     font-style: italic;
@@ -59,9 +58,7 @@
     color: rgb(87, 87, 87);
     text-align: justify;
     border: double rgb(172, 207, 171);
-    padding: 10px
-    
-    
+    padding: 10px    
 }
 
 
@@ -76,10 +73,6 @@
     padding: 10px 30px;
     width: fit-content;
     overflow: hidden;
-
-    /**margin-right: 900px ;
-    margin-left:1px;
-    padding: 10px 30px;*/
 }
 
 
@@ -94,10 +87,6 @@
     padding: 10px 30px;
     width: fit-content;
     overflow: hidden;
-
-    /**margin-right: 900px ;
-    margin-left:1px;
-    padding: 10px 30px;*/ 
 }
  
 
@@ -112,9 +101,6 @@
     padding: 10px 30px;
     width: fit-content;
     overflow: hidden;
-    /**margin-right: 900px ;
-    margin-left:1px;
-    padding: 10px 30px;*/ 
 }
 
 
@@ -129,9 +115,6 @@
     padding: 10px 30px;
     width: fit-content;
     overflow: hidden;
-    /**margin-right: 900px ;
-    margin-left:1px;
-    padding: 10px 30px;*/ 
 }
 
 
@@ -146,13 +129,7 @@
     padding: 10px 30px;
     width: fit-content;
     overflow: hidden;
-    /**margin-right: 900px ;
-    margin-left:1px;
-    padding: 10px 30px; */
 }
-
-
-.h2 {font-style: italic;}
 
 
 .Fondo_del_elemento {background: rgb(250, 248, 243);}
@@ -181,8 +158,9 @@
     position: fixed;
     width: 100%;
     top: 0;
-    left: 30px;
+    left: 25px;
     overflow: hidden;
+    text-decoration: none;
 }
 
 .Navegación {
@@ -193,23 +171,13 @@
     width: auto;
     background-color: rgba(3, 245, 132, 0.452);
     font-family: Helvetica; 
-    color: white;
 }
 
 
-
-
-
-/**@media screen and (max-width: 5000px) {
-  
-    .Foto,
-    .NombreYApellido,
-    .Presentación,
-    .Información_Básica,
-    .Formación,
-    .Experiencia_laboral,
-    .Tecnología,
-    .Habilidades_blandas {
-        width: 70%;
-    }
+a:link, a:visited { 
+    text-decoration: none;
+    color: rgb(92, 91, 92);
 }
+
+
+.h2 {font-style: italic;}
