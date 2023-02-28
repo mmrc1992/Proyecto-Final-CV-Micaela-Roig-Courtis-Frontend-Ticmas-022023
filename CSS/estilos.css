@@ -18,12 +18,12 @@
 
 
 .Foto {
-    border-color: rgb(138, 233, 181);
+    border-color: #8ae9b5;
     border-width: 2px;
     border-style: solid;
     image-rendering: optimizeQuality;
     border-radius: 100%;
-    box-shadow: 0 8px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 8px 8px 0 #00000033;
     left: 510px;
     position: absolute;
     top: 100px;
@@ -33,10 +33,10 @@
 }
 
 
-.NombreYApellido {
+#NombreYApellido {
     font-style: italic;
     font-size: 30px;
-    color: rgb(66, 66, 66);
+    color: #424242;
     text-align: center;
     left: 350px;
     position: absolute;
@@ -47,7 +47,7 @@
 
 
 .Presentación {
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 4px 8px 0 #00000033;
     position: absolute;
     overflow: hidden;
     width: fit-content;
@@ -55,20 +55,20 @@
     left: 130px;
     top: 480px;
     font-size: 20px;
-    color: rgb(87, 87, 87);
+    color: #575757;
     text-align: justify;
-    border: double rgb(172, 207, 171);
+    border: double #accfab;
     padding: 10px    
 }
 
 
 .Datos_de_contacto {
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    color: rgb(87, 87, 87);
+    box-shadow: 0 4px 8px 0 #00000033;
+    color: #575757;
     position: absolute;
     left: 400px;
     top: 900px;
-    border: double rgb(172, 207, 171);
+    border: double #accfab;
     float: left;
     padding: 10px 30px;
     width: fit-content;
@@ -77,12 +77,12 @@
 
 
 .Estudios {
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    color: rgb(87, 87, 87);
+    box-shadow: 0 4px 8px 0 #00000033;
+    color: #575757;
     position: absolute;
     left: 400px;
     top: 1500px;
-    border: double rgb(172, 207, 171);
+    border: double #accfab;
     float: left;
     padding: 10px 30px;
     width: fit-content;
@@ -92,11 +92,11 @@
 
 .Trabajos {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    color: rgb(87, 87, 87);
+    color: #575757;
     position: absolute;
     left: 400px;
     top: 2250px;
-    border: double rgb(172, 207, 171);
+    border: double #accfab;
     float: left;
     padding: 10px 30px;
     width: fit-content;
@@ -105,12 +105,12 @@
 
 
 .Herramientas {
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    color: rgb(87, 87, 87);
+    box-shadow: 0 4px 8px 0 #00000033;
+    color: #575757;
     position: absolute;
     left: 400px;
     top: 2850px;
-    border: double rgb(172, 207, 171);
+    border: double #accfab;
     float: left;
     padding: 10px 30px;
     width: fit-content;
@@ -119,12 +119,12 @@
 
 
 .Soft_skills {
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    color: rgb(87, 87, 87);
+    box-shadow: 0 4px 8px 0 #00000033;
+    color: #575757;
     position: absolute;
     left: 400px;
     top: 3440px;
-    border: double rgb(172, 207, 171);
+    border: double #accfab;
     float: left;
     padding: 10px 30px;
     width: fit-content;
@@ -132,7 +132,7 @@
 }
 
 
-.Fondo_del_elemento {background: rgb(250, 248, 243);}
+.Fondo_del_elemento {background: #faf8f3;}
 
 
 * {box-sizing: border-box;}
@@ -164,19 +164,20 @@
 }
 
 .Navegación {
-    padding: 15px 50px;
+    padding: 15px 46px;
     display: block;
     text-align: center;
     float: left;
     width: auto;
-    background-color: rgba(3, 245, 132, 0.452);
-    font-family: Helvetica; 
+    background-color: #03f584d0;
+    font-family: Helvetica;
+    font-weight: bold; 
 }
 
 
 a:link, a:visited { 
     text-decoration: none;
-    color: rgb(92, 91, 92);
+    color: #5c5b5c;
 }
 
 
